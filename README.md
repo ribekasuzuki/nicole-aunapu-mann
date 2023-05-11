@@ -9,5 +9,5 @@ Espero que gostem! :)
 # nicole-aunapu-mann
 This website was developed as the final project of Womakerscode's - Web Developers for Beginners.<br><br>
 The website includes some HTML pages, a CSS file and quiz using Javascript technology.<br><br>
-The ida was to choose a woman in technology and talk a litle bit about her.<br><br>
+The idea was to choose a woman in technology and talk a litle bit about her.<br><br>
 Hope you like it! :)
